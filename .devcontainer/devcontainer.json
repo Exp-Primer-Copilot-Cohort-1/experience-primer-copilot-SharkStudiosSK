@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Shark",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
